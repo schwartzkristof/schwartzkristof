@@ -84,7 +84,7 @@ Early-stage neural–behavioral model exploring affective and cognitive pattern 
 
 # 🌍 Connect With Me
 📫 Email: *add your email here*  
-📍 Fort Lauderdale, FL  
+📍 United States of America  
 🔎 Open to: Remote US roles in **AI/ML, Neurotech, Cognitive Modeling, Behavioral AI, and HealthTech**
 
 ---
