@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/203532253?s=400&u=a7d4174f9520ff9af04391b841e214c35ccef9e9&v=4" width="30%" alt="Profile Banner"/>
 </p>
 
-# 👋 Hi, I'm Kristóf  
+# 👋 Hi, I'm Kristof  
 ### **MD–PhD Neuroscientist | Psychophysiology & Multimodal Imaging | AI/ML in Progress | Adjunct University Lecturer**
 
 ---
