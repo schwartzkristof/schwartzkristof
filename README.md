@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="30%" alt="Profile Banner](https://github.com/account"/>
+  <img src="[https://avatars.githubusercontent.com/u/000000000?v=4" width="30%" alt="Profile Banner](https://github.com/account](https://avatars.githubusercontent.com/u/203532253?s=400&u=a7d4174f9520ff9af04391b841e214c35ccef9e9&v=4)"/>
 </p>
 
 # 👋 Hi, I'm Kristóf  
