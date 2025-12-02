@@ -38,6 +38,8 @@ Today I am transitioning into **AI & Machine Learning**, integrating neuroscient
   <img src="https://img.shields.io/badge/MRI-5A5A5A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BCI/DBS/SCS-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TinyML-00A67E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ---
